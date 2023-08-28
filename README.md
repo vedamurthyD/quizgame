@@ -1,5 +1,5 @@
 Python script utilizes the tkinter library to create a graphical quiz game. It presents a series of questions with multiple-choice options, tracks the user's answers, and displays their final score at the end of the quiz.
-Nihal G Bailur1:02 PM
+
 # Quiz Game using tkinter
 
 This is a simple quiz game implemented in Python using the `tkinter` library for creating a graphical user interface. The game presents a series of questions with multiple-choice options and calculates the player's score based on their answers.
